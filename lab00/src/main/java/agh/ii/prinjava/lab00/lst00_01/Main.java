@@ -1,4 +1,4 @@
-package agh.ii.prinjava.lab00.lst00_01.;
+package agh.ii.prinjava.lab00.lst00_01;
 
 public class Main {
     public static void main (String[] args){
